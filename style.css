@@ -1,0 +1,25 @@
+#intro{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.photoBar{
+    height: 100vh;
+    background: url(https://cdnn21.img.ria.ru/images/07e4/0c/11/1589726450_0:160:2000:1285_1920x0_80_0_0_ec0031907e25a9123a1ee68f0945800f.jpg) center no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.myBtn{
+    width: 10rem;
+    background-color: black;
+    color: white;
+    border: black;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.formStyle{
+    background-color: #bababa;
+    margin: 1% 20%;
+}
